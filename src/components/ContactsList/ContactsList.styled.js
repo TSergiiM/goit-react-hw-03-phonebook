@@ -10,9 +10,3 @@ export const Item = styled.li`
   max-height: 50px;
   margin: 20px;
 `;
-export const Button = styled.button`
-  color: red;
-  font-style: italic;
-  margin-left: 20px;
-  background: grey;
-`;
